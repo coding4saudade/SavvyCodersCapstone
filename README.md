@@ -1,7 +1,7 @@
 # Savvy Coders Capstone Project
 
 ## Definition of your audience:
-Anyone that wants to see my code
+Anyone that wants to see a code example
 
 ## Definition statement: 
 To obtain data from happiness and cost of living and see if there is a connection
